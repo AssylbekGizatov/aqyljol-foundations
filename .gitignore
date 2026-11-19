@@ -1,0 +1,27 @@
+# Local credentials and service configuration
+.env
+.env.*
+!.env.example
+GoogleService-Info.plist
+
+# macOS and IDE files
+.DS_Store
+._*
+.idea/
+.vscode/
+xcuserdata/
+*.xcuserstate
+
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.pytest_cache/
+
+# Build output
+DerivedData/
+.build/
+build/
+dist/

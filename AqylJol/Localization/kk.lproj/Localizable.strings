@@ -1,0 +1,117 @@
+"profile.title" = "Профиль";
+
+"settings.notifications" = "Хабарландырулар";
+"settings.language" = "Тіл";
+"settings.password" = "Құпия сөз";
+"settings.faceid" = "Face ID";
+"settings.dark" = "Қараңғы режим";
+"settings.light" = "Жарық режим";
+
+"logout" = "Шығу";
+"cancel" = "Бас тарту";
+"submit" = "Жіберу";
+
+"edit.title" = "Профильді өңдеу";
+"save" = "Сақтау";
+"edit.avatar" = "Аватарды ауыстыру";
+"edit.firstName" = "Аты";
+"edit.lastName" = "Тегі";
+"edit.role" = "Рөлі";
+"edit.firstName.placeholder" = "Атыңызды теріңіз";
+"edit.lastName.placeholder"  = "Тегіңізді теріңіз";
+"edit.role.placeholder"      = "Рөлді теріңіз";
+"edit.photo.choose"          = "Фото таңдау";
+"edit.photo.camera"          = "Фотоға түсіру";
+
+"auth.title" = "Welcome";
+"auth.login" = "Login";
+"auth.register" = "Register";
+
+"auth.login.login" = "Login";
+"auth.login.login.ph" = "Enter login";
+"auth.login.password" = "Password";
+"auth.login.password.ph" = "Enter password";
+"auth.login.submit" = "Sign In";
+"auth.login.ok" = "Signed in";
+
+"auth.reg.first" = "First name";
+"auth.reg.first.ph" = "Enter first name";
+"auth.reg.last" = "Last name";
+"auth.reg.last.ph" = "Enter last name";
+"auth.reg.role" = "Role (optional)";
+"auth.reg.role.ph" = "Enter role (optional)";
+"auth.reg.login" = "Login";
+"auth.reg.login.ph" = "Choose a login";
+"auth.reg.password" = "Password";
+"auth.reg.password.ph" = "Create a password (6+)";
+"auth.reg.repeat" = "Repeat password";
+"auth.reg.repeat.ph" = "Repeat password";
+"auth.reg.mismatch" = "Passwords don’t match";
+"auth.reg.submit" = "Create account";
+"auth.register.ok" = "Account created";
+"auth.forgot" = "Forgot password?";
+"auth.reset.title" = "Reset password";
+"auth.reset.email" = "Email";
+"auth.reset.email.ph" = "Enter your email";
+"auth.reset.submit" = "Send reset link";
+"auth.reset.hint" = "We’ll send a password reset link to your email.";
+"auth.reset.sent" = "Reset link sent";
+
+"settings.notifications" = "Хабарландырулар";
+"notifications.denied.explain" = "Бұл қолданба үшін хабарландырулар iOS параметрлерінде өшірілген. Оларды «Параметрлерден» қосуға болады.";
+"notifications.turnoff.info" = "Хабарландыруларды толық өшіру үшін iOS «Параметрлерін» ашып, осы қолданбаға арналған хабарландыруларды өшіріңіз.";
+"settings.open" = "Параметрлерді ашу";
+"common.cancel" = "Бас тарту";
+"common.ok" = "Жарайды";
+
+"info.hours.title" = "Жұмыс уақыты";
+"info.copied" = "Көшірілді";
+"info.hours.closed" = "Демалыс";
+"info.placeholder.dash" = "—";
+
+"weekday.short.0" = "Дс";
+"weekday.short.1" = "Сс";
+"weekday.short.2" = "Ср";
+"weekday.short.3" = "Бс";
+"weekday.short.4" = "Жм";
+"weekday.short.5" = "Сб";
+"weekday.short.6" = "Жс";
+
+"info.reviews.count.fallback" = "%d пікір";
+
+"map.myLocation" = "Менің орналасқан жерім";
+
+"route.error.notFound" = "Маршрут табылмады.";
+"error.location.permissionDenied" = "Геолокация рұқсаты берілмеді.";
+"error.sdk.notInitialized" = "SDK контейнері инициализацияланбаған.";
+"error.search.managerCreate" = "Іздеу менеджерін жасау мүмкін болмады.";
+"error.map.notInitialized" = "2GIS инициализацияланбаған.";
+"error.nav.startFailed" = "Навигацияны іске қосу мүмкін болмады.";
+"error.nav.freeRoamFailed" = "Еркін навигацияны іске қосу мүмкін болмады.";
+
+"route.sheet.title" = "Бағыт";
+"route.from.placeholder" = "Қайдан";
+"route.to.placeholder" = "Қайда";
+"route.go" = "Бару";
+
+"search.placeholder" = "Іздеу";
+"voice.listening" = "Тыңдап тұрмын…";
+
+"chat.tabbar" = "Чаттар";
+"favorities" = "Таңдаулылар";
+"share" = "Бөлісу";
+"chats.title" = "Чат";
+"chat.input.placeholder" = "Хабарлама";
+
+"type" = "Түрі";
+"distance" = "Қашықтық";
+"rating" = "Рейтинг";
+"describe" = "Сипаттама";
+
+"copied" = "Көшірілген";
+
+"opening_hours" = "Жұмыс уақыты";
+
+"my_location" = "Менің орным";
+"from" = "Қайдан";
+"to" = "Қайда";

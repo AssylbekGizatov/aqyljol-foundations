@@ -1,0 +1,117 @@
+"profile.title" = "Profile";
+
+"settings.notifications" = "Notifications";
+"settings.language" = "Language";
+"settings.password" = "Password";
+"settings.faceid" = "Face ID";
+"settings.dark" = "Dark Mode";
+"settings.light" = "Light Mode";
+
+"logout" = "Logout";
+"cancel" = "Cancel";
+"submit" = "Submit";
+
+"edit.title" = "Edit Profile";
+"save" = "Save";
+"edit.avatar" = "Change avatar";
+"edit.firstName" = "First name";
+"edit.lastName" = "Last name";
+"edit.role" = "Role";
+"edit.firstName.placeholder" = "Enter first name";
+"edit.lastName.placeholder" = "Enter last name";
+"edit.role.placeholder" = "Enter role";
+"edit.photo.choose" = "Choose Photo";
+"edit.photo.camera" = "Take Photo";
+"cancel" = "Cancel";
+
+"auth.title" = "Welcome";
+"auth.login" = "Login";
+"auth.register" = "Register";
+
+"auth.login.login" = "Login";
+"auth.login.login.ph" = "Enter login";
+"auth.login.password" = "Password";
+"auth.login.password.ph" = "Enter password";
+"auth.login.submit" = "Sign In";
+"auth.login.ok" = "Signed in";
+
+"auth.reg.first" = "First name";
+"auth.reg.first.ph" = "Enter first name";
+"auth.reg.last" = "Last name";
+"auth.reg.last.ph" = "Enter last name";
+"auth.reg.role" = "Role (optional)";
+"auth.reg.role.ph" = "Enter role (optional)";
+"auth.reg.login" = "Login";
+"auth.reg.login.ph" = "Choose a login";
+"auth.reg.password" = "Password";
+"auth.reg.password.ph" = "Create a password (6+)";
+"auth.reg.repeat" = "Repeat password";
+"auth.reg.repeat.ph" = "Repeat password";
+"auth.reg.mismatch" = "Passwords don’t match";
+"auth.reg.submit" = "Create account";
+"auth.register.ok" = "Account created";
+"auth.forgot" = "Forgot password?";
+"auth.reset.title" = "Reset password";
+"auth.reset.email" = "Email";
+"auth.reset.email.ph" = "Enter your email";
+"auth.reset.submit" = "Send reset link";
+"auth.reset.hint" = "We’ll send a password reset link to your email.";
+"auth.reset.sent" = "Reset link sent";
+
+"settings.notifications" = "Notifications";
+"notifications.denied.explain" = "Notifications are turned off for this app in iOS Settings. You can enable them in Settings.";
+"notifications.turnoff.info" = "To fully disable notifications, open iOS Settings and turn them off for this app.";
+"settings.open" = "Open Settings";
+"common.cancel" = "Cancel";
+"common.ok" = "OK";
+
+"info.hours.title" = "Working hours";
+"info.copied" = "Copied";
+"info.hours.closed" = "Closed";
+"info.placeholder.dash" = "—";
+
+"weekday.short.0" = "Mon";
+"weekday.short.1" = "Tue";
+"weekday.short.2" = "Wed";
+"weekday.short.3" = "Thu";
+"weekday.short.4" = "Fri";
+"weekday.short.5" = "Sat";
+"weekday.short.6" = "Sun";
+
+"info.reviews.count.fallback" = "%d reviews";
+
+"map.myLocation" = "My location";
+
+"route.error.notFound" = "Couldn’t find a route.";
+"error.location.permissionDenied" = "Location permission denied.";
+"error.sdk.notInitialized" = "SDK container is not initialized.";
+"error.search.managerCreate" = "Failed to create search manager.";
+"error.map.notInitialized" = "2GIS is not initialized.";
+"error.nav.startFailed" = "Failed to start navigation.";
+"error.nav.freeRoamFailed" = "Failed to start free roam navigation.";
+
+"route.sheet.title" = "Route";
+"route.from.placeholder" = "From";
+"route.to.placeholder" = "To";
+"route.go" = "Go";
+
+"search.placeholder" = "Search";
+"voice.listening" = "Listening…";
+
+"chat.tabbar" = "Chats";
+"favorities" = "Избранное";
+"share" = "Share";
+"chats.title" = "Chats";
+"chat.input.placeholder" = "Message";
+
+"type" = "Type";
+"distance" = "Distance";
+"rating" = "Rating";
+"describe" = "Describe";
+
+"copied" = "Copied";
+
+"opening_hours" = "Opening hours";
+"my_location" = "My location";
+"from" = "From";
+"to" = "To";

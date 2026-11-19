@@ -1,0 +1,120 @@
+"profile.title" = "Профиль";
+
+"settings.notifications" = "Уведомления";
+"settings.language" = "Язык";
+"settings.password" = "Пароль";
+"settings.faceid" = "Face ID";
+"settings.dark" = "Тёмная тема";
+"settings.light" = "Светлая тема";
+
+"logout" = "Выйти";
+"cancel" = "Отмена";
+"submit" = "Сдать";
+
+"edit.title" = "Редактировать профиль";
+"save" = "Сохранить";
+"edit.avatar" = "Сменить аватар";
+"edit.firstName" = "Имя";
+"edit.lastName" = "Фамилия";
+"edit.role" = "Роль";
+"edit.firstName.placeholder" = "Введите имя";
+"edit.lastName.placeholder"  = "Введите фамилию";
+"edit.role.placeholder"      = "Введите роль";
+"edit.photo.choose"          = "Выбрать фото";
+"edit.photo.camera"          = "Снять фото";
+
+"auth.title" = "Welcome";
+"auth.login" = "Login";
+"auth.register" = "Register";
+
+"auth.login.login" = "Login";
+"auth.login.login.ph" = "Enter login";
+"auth.login.password" = "Password";
+"auth.login.password.ph" = "Enter password";
+"auth.login.submit" = "Sign In";
+"auth.login.ok" = "Signed in";
+
+"auth.reg.first" = "First name";
+"auth.reg.first.ph" = "Enter first name";
+"auth.reg.last" = "Last name";
+"auth.reg.last.ph" = "Enter last name";
+"auth.reg.role" = "Role (optional)";
+"auth.reg.role.ph" = "Enter role (optional)";
+"auth.reg.login" = "Login";
+"auth.reg.login.ph" = "Choose a login";
+"auth.reg.password" = "Password";
+"auth.reg.password.ph" = "Create a password (6+)";
+"auth.reg.repeat" = "Repeat password";
+"auth.reg.repeat.ph" = "Repeat password";
+"auth.reg.mismatch" = "Passwords don’t match";
+"auth.reg.submit" = "Create account";
+"auth.register.ok" = "Account created";
+"auth.forgot" = "Forgot password?";
+"auth.reset.title" = "Reset password";
+"auth.reset.email" = "Email";
+"auth.reset.email.ph" = "Enter your email";
+"auth.reset.submit" = "Send reset link";
+"auth.reset.hint" = "We’ll send a password reset link to your email.";
+"auth.reset.sent" = "Reset link sent";
+
+"settings.notifications" = "Уведомления";
+"notifications.denied.explain" = "Уведомления для этого приложения отключены в настройках iOS. Вы можете включить их в «Настройках».";
+"notifications.turnoff.info" = "Чтобы полностью отключить уведомления, откройте «Настройки» iOS и выключите их для этого приложения.";
+"settings.open" = "Открыть настройки";
+"common.cancel" = "Отмена";
+"common.ok" = "ОК";
+
+"info.hours.title" = "Время работы";
+"info.copied" = "Скопировано";
+"info.hours.closed" = "выходной";
+"info.placeholder.dash" = "—";
+
+"weekday.short.0" = "Пн";
+"weekday.short.1" = "Вт";
+"weekday.short.2" = "Ср";
+"weekday.short.3" = "Чт";
+"weekday.short.4" = "Пт";
+"weekday.short.5" = "Сб";
+"weekday.short.6" = "Вс";
+
+"info.reviews.count.fallback" = "%d оценок";
+
+"map.myLocation" = "Моё местоположение";
+
+"route.error.notFound" = "Не удалось найти маршрут.";
+"error.location.permissionDenied" = "Доступ к геолокации отклонён.";
+"error.sdk.notInitialized" = "Контейнер SDK не инициализирован.";
+"error.search.managerCreate" = "Не удалось создать менеджер поиска.";
+"error.map.notInitialized" = "2GIS не инициализирован.";
+"error.nav.startFailed" = "Не удалось запустить навигацию.";
+"error.nav.freeRoamFailed" = "Не удалось запустить свободную навигацию.";
+
+"route.sheet.title" = "Маршрут";
+"route.from.placeholder" = "Откуда";
+"route.to.placeholder" = "Куда";
+"route.go" = "В путь";
+
+"search.placeholder" = "Поиск";
+"voice.listening" = "Слушаю…";
+
+"chat.tabbar" = "Чаты";
+"favorities" = "Избранное";
+"share" = "Поделиться";
+"chats.title" = "Чаты";
+"chat.input.placeholder" = "Сообщение…";
+
+"type" = "Тип";
+"distance" = "Дистанция";
+"rating" = "Рейтинг";
+"describe" = "Описание";
+
+"copied" = "Скопировано";
+
+"opening_hours" = "Время открытия"
+
+"weekends" = "выходной";
+
+"my_location" = "Моё местоположение";
+
+"from" = "Откуда";
+"to" = "Куда";
